@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const slides = [
   {
-    image: 'public/lovable-uploads/a7f020b8-0bbb-453b-bb56-a0898833c848.png',
+    image: './lovable-uploads/a7f020b8-0bbb-453b-bb56-a0898833c848.png',
     title: 'Exquisite Fragrances',
     subtitle: 'Discover the Essence of Luxury',
     description: 'Handcrafted perfumes that embody elegance and sophistication.',
