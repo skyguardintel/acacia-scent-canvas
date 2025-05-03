@@ -20,7 +20,7 @@ const collections = [
   {
     id: '3',
     name: 'Oriental Collection',
-    image: 'public/lovable-uploads/1e467098-ee74-4f19-893f-7b3380a2ba51.png',
+    image: './lovable-uploads/1e467098-ee74-4f19-893f-7b3380a2ba51.png',
     description: 'Exotic fragrances inspired by the mysteries of the East.',
     link: '/collections/oriental'
   }
